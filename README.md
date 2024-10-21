@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Rhode! I'm a CS student at Florida International University (FIU). I have a background in HTML + CSS. I am currently learning Java as of right now. I hope to learn many new skills in my journey! <br>languages I know:<br><3 HTML + CSS<br><3 JS<br><3 learning Java<br><br>
+Hello my name is Rhode! I'm a CS student at Florida International University (FIU). I have a background in web development. I hope to learn many new skills in my journey <3
 
 
 ## 🌐 Socials:
