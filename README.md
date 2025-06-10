@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Rhode! I'm a CS student at Florida International University (FIU). I have a background in web development. I hope to learn many new skills in my journey <3
+Hello my name is Rhode! I'm a CS student at Florida International University (FIU). I hope to learn many new skills in my journey <3
 
 
 ## 🌐 Socials:
