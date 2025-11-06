@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello my name is Rhode! I'm a CS student at Florida International University (FIU). I hope to learn many new skills in my journey <3
+Hello my name is Rhode! I'm a passionate computer science student at Florida International University (FIU) pursuing a B.A. in Computer Science with a minor in mathematical sciences and history. I am currently a sophomore and hope to learn many new skills in my journey. 
+
+My curiosity currently is in machine learning, specifically good recommendation systems. I also like algorithimic problem-solving, as well as full stack development.
+
+I'm always eager to collaborate on projects, learn new skills, and innovate with others.
 
 
 ## 🌐 Socials:
