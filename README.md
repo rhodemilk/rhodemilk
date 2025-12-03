@@ -6,11 +6,12 @@ My curiosity currently is in machine learning, specifically good recommendation 
 I'm always eager to collaborate on projects, learn new skills, and innovate with others.
 
 ## 🔧 What I'm Working On:
+
 📰 A machine learning fake news detector with AI4ALL.
 
 👩🏼 A profile website that shows everything about me and my journey!
 
-💗 and many more to come!
+💗 Witcon 2026 website!
 
 
 
